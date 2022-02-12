@@ -1,18 +1,5 @@
-RICE LICENSE 
+RICE LICENSE
 
-Copyright (c) 2022-present CertifiedRice
+COPYRIGHT (C), 2021-2022 Certified Rice
 
-Cloning, modifying, distributing, and forking the repository is allowed.
-When modifying or forking the repository please give credits to CertifiedRice and say that you have modified or forked the repository.
-
-Miss use of the license will result in copyright or legal issues if the original creator says so.
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THIS SOFTWARE IS TO BE USED BY THE PUBLIC AND NOT TO BE DISTRIBUTED UNDER SOMEONE OTHER THAN CERTIFIEDRICE OR THE ORIGINAL CREATOR'S NAME
-IF THERE IS ANY EULA OR TERMS PLEASE FOLLOW THEM
+The Contribution, Modification, or Distribution of <Project Name>, Is permitted with the term and agreement that any Branches of the original project/work must contain information regarding the origins and creator of the work/project. And CAN NOT be distributed under another license that permits the pricing of the work/project. Failure to comply with the terms will lead to the termination of Branches or Fork's that do not follow the terms and, depending on the issue at hand, it can lead to legal action.
